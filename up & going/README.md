@@ -1,6 +1,5 @@
-# 你不懂JS：入门与进阶
 
-<img src="cover.jpg" width="300">
+![](cover.jpg){width="300"}
 
 -----
 

@@ -1,0 +1,1 @@
+pandoc README.md foreword.md ch1.md ch2.md ch3.md apA.md --highlight-style haddock --pdf-engine=xelatex --template="../template.tex" -V CJKmainfont="PingFang SC" -o 你不懂JS：入门与进阶.pdf
