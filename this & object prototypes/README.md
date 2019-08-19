@@ -1,6 +1,4 @@
-# 你不懂JS: *this* 与对象原型
-
-<img src="cover.jpg" width="300">
+![](cover.jpg){width="300"}
 
 -----
 

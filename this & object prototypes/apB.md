@@ -1,4 +1,3 @@
-# 你不懂JS: *this* & Object Prototypes
 # 附录B: 鸣谢
 
 为了这本书和整个系列的诞生，我有很多人要感谢。
